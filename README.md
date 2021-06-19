@@ -6,7 +6,7 @@ Always in development
 
 Skills: NODE / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Devpleno, WeDevIdeas and ID49 projects
+- 🔭 I’m currently intern on the iot testing team
 - 🌱 I’m currently learning NextJs, NestJs, GraphQL
 - 📫 How to reach me: Linkedin / Email
 
