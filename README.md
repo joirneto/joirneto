@@ -20,9 +20,8 @@ Skills: NODE / REACT / JS / HTML / CSS
 - Stack: NextJS + Tailwind + MomentJS + Google Spreadsheet (Integração com Google Spreadsheet)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=renatosiqueira&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=joirneto&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/renatosiqueira)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
