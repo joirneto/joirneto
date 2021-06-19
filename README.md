@@ -1,6 +1,6 @@
 ### Joir Neto
 
-#### I am a student of computer engineering at the Federal University of Ceará and Studying for Full-Stack Developer | Javascript | Node.js | React.js
+#### I am a student of computer engineering at the Federal University of Ceará and Full-Stack Developer | Javascript | Node.js | React.js
 
 Always in development
 
