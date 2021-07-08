@@ -20,6 +20,12 @@ Skills: NODE / REACT / JS / HTML / CSS
 
 ============================================================================================
 
+App - Gestão de Estoque e Vendas
+- [Repo](https://github.com/joirneto/app-deposito-moda-intima)
+- Stack: Android Studio + Firebase
+
+============================================================================================
+
 Jokenpô Cli
 - [Repo](https://github.com/joirneto/jokenpo)
 - Stack: NodeJS
