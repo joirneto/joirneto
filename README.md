@@ -18,7 +18,7 @@ Skills: NODE / REACT / JS / HTML / CSS
 - [Repo](https://github.com/joirneto/palpite_box)
 - Stack: NextJS + Tailwind + MomentJS + Google Spreadsheet (Integração com Google Spreadsheet)
 
-**
+***
 
 App - Gestão de Estoque e Vendas
 - [Repo](https://github.com/joirneto/app-deposito-moda-intima)
