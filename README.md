@@ -24,6 +24,7 @@ Jokenpô Cli
 - [Repo](https://github.com/joirneto/jokenpo)
 - Stack: NodeJS
 
+============================================================================================
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=joirneto&show_icons=true)
 
