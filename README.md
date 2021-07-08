@@ -18,7 +18,7 @@ Skills: NODE / REACT / JS / HTML / CSS
 - [Repo](https://github.com/joirneto/palpite_box)
 - Stack: NextJS + Tailwind + MomentJS + Google Spreadsheet (Integração com Google Spreadsheet)
 
-===============================================================================================
+============================================================================================
 
 Jokenpô Cli
 - [Repo](https://github.com/joirneto/jokenpo)
