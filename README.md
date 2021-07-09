@@ -3,9 +3,8 @@
 #### I am a student of computer engineering at the Federal University of Ceará and Full-Stack Developer | Javascript | Node.js | React.js
 
 Always in development
-
-Skills: 
 <div style="display: inline_block"><br>
+  Skills: 
   <img align="center" alt="Joir-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--  <img align="center" alt="Eduardo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 <!--  <img align="center" alt="Eduardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
