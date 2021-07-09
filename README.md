@@ -38,6 +38,11 @@ Jokenpô Cli
 - Stack: NodeJS
 
 ***
+Curriculo-Expresso
+- [Repo](https://github.com/joirneto/curriculo-expresso)
+- Stack: NodeJS + Express + EJS
+
+***
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=joirneto&show_icons=true)
 
