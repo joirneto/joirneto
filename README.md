@@ -4,7 +4,16 @@
 
 Always in development
 
-Skills: NODE / REACT / JS / HTML / CSS
+Skills: 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Eduardo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Eduardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Eduardo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Eduardo-yoda" src="https://cdn.discordapp.com/avatars/522150111489294339/4e21d0ba7e605245f60132f4a1e0d97b.png">
+</div>
 
 - 🔭 I’m currently intern on the iot testing team
 - 🌱 I’m currently learning NextJs, NestJs, GraphQL
