@@ -12,7 +12,6 @@ Skills:
   <img align="center" alt="Joir-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Joir-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joir-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Joir-yoda" src="https://cdn.discordapp.com/avatars/522150111489294339/4e21d0ba7e605245f60132f4a1e0d97b.png">
 </div>
 
 - 🔭 I’m currently intern on the iot testing team
