@@ -27,6 +27,11 @@ Always in development
 
 ***
 
+Mentions-Api
+- [Repo](https://github.com/joirneto/mentions-api)
+- Stack: NodeJS + Express + MongoDB + Atlas + Postman
+
+***
 App - Gestão de Estoque e Vendas
 - [Repo](https://github.com/joirneto/app-deposito-moda-intima)
 - Stack: Android Studio + Firebase
