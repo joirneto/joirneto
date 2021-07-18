@@ -32,6 +32,13 @@ Mentions-Api
 - Stack: NodeJS + Express + MongoDB + Atlas + Postman
 
 ***
+
+Gamagit
+- [Repo](https://github.com/joirneto/gamagit)
+- Stack: React + React Router Dom + Axios - Integração com API externa (git) + Styled Components
+
+***
+
 App - Gestão de Estoque e Vendas
 - [Repo](https://github.com/joirneto/app-deposito-moda-intima)
 - Stack: Android Studio + Firebase
