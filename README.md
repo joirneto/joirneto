@@ -27,6 +27,12 @@ Always in development
 
 ***
 
+E-commerce Vtex-AWS
+- [Repo](https://github.com/joirneto/aws-page)
+- Stack: VTEX IO + NodeJs + React + API Gateway da AWS
+
+***
+
 Mentions-Api
 - [Repo](https://github.com/joirneto/mentions-api)
 - Stack: NodeJS + Express + MongoDB + Atlas + Postman
