@@ -39,8 +39,14 @@ Mentions-Api
 
 ***
 
-Gamagit
-- [Repo](https://github.com/joirneto/gamagit)
+Mentions-Api
+- [Repo](https://github.com/joirneto/mentions-api)
+- Stack: NodeJS + Express + Mysql2
+
+***
+
+PetsCare-api
+- [Repo](https://github.com/joirneto/petsCare-api)
 - Stack: React + React Router Dom + Axios - Integração com API externa (git) + Styled Components
 
 ***
