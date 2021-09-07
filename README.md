@@ -39,14 +39,14 @@ Mentions-Api
 
 ***
 
-Mentions-Api
-- [Repo](https://github.com/joirneto/mentions-api)
+PetsCare-Api
+- [Repo](https://github.com/joirneto/petsCare-api)
 - Stack: NodeJS + Express + Mysql2
 
 ***
 
-PetsCare-api
-- [Repo](https://github.com/joirneto/petsCare-api)
+GamaGit-Api
+- [Repo](https://github.com/joirneto/gamagit)
 - Stack: React + React Router Dom + Axios - Integração com API externa (git) + Styled Components
 
 ***
