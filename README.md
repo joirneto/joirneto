@@ -45,6 +45,12 @@ PetsCare-Api
 
 ***
 
+PetShop-Api
+- [Repo](https://github.com/joirneto/petShop-api)
+- Stack: NodeJS + Express + Mysql2 + Sequelize
+
+***
+
 GamaGit-Api
 - [Repo](https://github.com/joirneto/gamagit)
 - Stack: React + React Router Dom + Axios - Integração com API externa (git) + Styled Components
