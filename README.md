@@ -27,6 +27,12 @@ Always in development
 
 ***
 
+[Precisando de... Fale com...](https://precisando-de-fale-com.vercel.app/)
+- [Repo](https://github.com/joirneto/PrecisandoDeFaleCom)
+- Stack: NextJS + Tailwind + Formik + Google Spreadsheet (Integração com Google Spreadsheet) + Api-WhatsApp + Yup
+
+***
+
 E-commerce Vtex-AWS
 - [Repo](https://github.com/joirneto/aws-page)
 - Stack: VTEX IO + NodeJs + React + API Gateway da AWS
