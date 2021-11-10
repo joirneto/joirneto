@@ -63,6 +63,12 @@ GamaGit-Api
 
 ***
 
+Module-Vagrant-Ansible
+- [Repo](https://github.com/joirneto/Module-Vagrant-Ansible)
+- Stack: Vagrant + Ansible
+
+***
+
 App - Gestão de Estoque e Vendas
 - [Repo](https://github.com/joirneto/app-deposito-moda-intima)
 - Stack: Android Studio + Firebase
