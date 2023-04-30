@@ -86,6 +86,12 @@ Curriculo-Expresso
 
 ***
 
+POC - CRUD ORM Sequelize
+- [Repo](https://github.com/joirneto/poc-crud-orm)
+- Stack: NodeJS + Express + EJS + Sequelize
+
+***
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=joirneto&show_icons=true)
 
 
